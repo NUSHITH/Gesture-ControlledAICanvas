@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<a href="https://github.com/ShaanCoding">📱 Visit this Project</a>
+<a href="https://github.com/NUSHITH">📱 Visit this Project</a>
 </p>
 
 <h2 id="started">🚀 Getting started</h2>
